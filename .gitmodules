@@ -1,0 +1,6 @@
+[submodule "submodules/jquery.ui"]
+	path = submodules/jquery.ui
+	url = https://github.com/Investars/jquery-ui
+[submodule "submodules/jquery"]
+	path = submodules/jquery
+	url = https://github.com/Investars/jquery
